@@ -3,7 +3,7 @@
 ------------------------------------
   # This battery uses a LiPo Battery
   # DO NOT PUNCTURE OR STICK IN WATER OR BAD THINGS HAPPEN!!!
-
+![alt text](https://github.com/s7a73farm/s7a73farm_DC27_BeardoBadge/blob/master/lipo.jpg "Warning")
 ## Modes of Operation
 
 ### Top Button: 
